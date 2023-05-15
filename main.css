@@ -113,10 +113,10 @@ body {
     background: var(--clr-secondary);
 
     position: relative;
-    min-height: 150vh;
+    min-height: 100vh;
     display: grid;
     place-content: center;
-    margin: 1rem;
+    margin-inline: 1rem;
 }
 
 .attribution {
@@ -124,7 +124,7 @@ body {
     text-align: center;
     width: 100%;
     position: absolute;
-    bottom: 3px;
+    top: 3px;
     left: 50%;
     transform: translateX(-50%);
 }
