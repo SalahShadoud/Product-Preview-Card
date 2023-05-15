@@ -15,8 +15,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Soultion URL](https://www.frontendmentor.io/solutions/product-preview-card-solution-responsive-grid-flex-html-css-F_at8xY9MN#comment-646245f08e83945a0ca9d024)
+- Live Site URL: [Live Site](https://product-preview-card-salahshadoud.vercel.app/)
 
 ## My process
 
